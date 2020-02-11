@@ -1,6 +1,6 @@
 
 
-![](https://github.com/chekos/chekos.dev/workflows/CI/badge.svg) ![](https://github.com/fastai/fastpages/workflows/GH-Pages%20Status/badge.svg)  [![](https://img.shields.io/static/v1?label=&message=View%20Demo%20Site&color=inactive&style=plastic)](https://fastai.github.io/fastpages/)
+![](https://github.com/chekos/chekos.dev/workflows/CI/badge.svg) ![](https://github.com/chekos/chekos.dev/workflows/GH-Pages%20Status/badge.svg)  [![](https://img.shields.io/static/v1?label=&message=Visita%20el%20sitio&color=inactive&style=plastic)](https://chekos.dev/)
 
 # chekos.dev
 
