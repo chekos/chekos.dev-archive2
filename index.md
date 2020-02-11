@@ -4,10 +4,6 @@
 
 layout: home
 ---
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Este blog - [chekos.dev](https://chekos.dev/) - existe como repositorio de ideas y experimentos mios que no caben en la filosofía de **tacosdedatos**. Para más todo eso existen [el sitio web](https://tacosdedatos.com/), [el podcast **tacosdedatos, el podcast**](https://anchor.fm/tacosdedatos), [el podcast **Quail data**](https://anchor.fm/quaildata) (y su sitio [tacosdedatos.fm](https://tacosdedatos.fm)), [el boletín](https://tacosdedatos.substack.com/), [el canal de youtube](https://youtube.com/tacosdedatos) y hasta ["la academia"](https://tacosdedatos.academy/). 
 
-![Image of fast.ai logo](images/logo.png)
-
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Para todo lo demás - [chekos.dev](https://chekos.dev/)
