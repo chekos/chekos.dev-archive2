@@ -207,14 +207,42 @@ table td { border: 1px solid #e8e8e8; }
 
 .language-python + .language-plaintext pre { background-color: white !important; }
 
-.input_area pre, .input_area div { margin-bottom: 0.1rem !important; margin-top: 0.1rem !important; padding-bottom: 0 !important; padding-top: 0 !important; }
+.input_area pre, .input_area div { margin-bottom: 2rem !important; margin-top: 1.5rem !important; padding-bottom: 0 !important; padding-top: 0 !important; background: #323443 !important; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; font-family: BlinkMacSystemFont,'Segoe UI',Roboto,Ubuntu,'Helvetica Neue', sans-serif; font-family: Menlo, Monaco, "Courier New", monospace; border-radius: 5px; }
 
-.output_area pre, .output_area div { margin-bottom: 0.1rem !important; margin-top: 0.1rem !important; padding-bottom: 0 !important; padding-top: 0 !important; background-color: white !important; }
+.output_area pre, .output_area div { margin-bottom: 0.1rem !important; margin-top: 0.1rem !important; padding-bottom: 0 !important; padding-top: 0 !important; }
 
 .input_area pre { border-left: 1px solid lightcoral; }
 
 .output_area pre { border-left: 1px solid grey; margin-left: 1rem !important; }
 
-.codecell { border-right: 2px solid lightgrey; margin-bottom: 1rem !important; margin-top: 1rem !important; padding-bottom: 0 !important; padding-top: 0 !important; }
+.code_cell table { width: auto; }
 
-.codecell table { width: auto; }
+.page-content { -webkit-font-smoothing: antialiased !important; text-rendering: optimizeLegibility !important; font-family: "Segoe UI", "Open Sans", "Helvetica Neue"; }
+
+p { font-size: 20px; color: #515151; }
+
+h1 { margin-top: 2.5rem !important; }
+
+h2 { margin-top: 2rem !important; }
+
+h3, h4 { margin-top: 1.5rem !important; }
+
+.post-title { margin-top: .5rem !important; }
+
+/* Dracula Theme v1.2.5  https://github.com/zenorocha/dracula-theme  Copyright 2016, All rights reserved  Code licensed under the MIT license  */
+/* Variables */
+/* Styles */
+.highlight .hll, .highlight .s, .highlight .sa, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd, .highlight .s2, .highlight .se, .highlight .sh, .highlight .si, .highlight .sx, .highlight .sr, .highlight .s1, .highlight .ss { color: #e7997a; }
+.highlight .go { color: #44475a; }
+.highlight .err, .highlight .g, .highlight .l, .highlight .n, .highlight .x, .highlight .ge, .highlight .gr, .highlight .gh, .highlight .gi, .highlight .gp, .highlight .gs, .highlight .gu, .highlight .gt, .highlight .ld, .highlight .no, .highlight .nd, .highlight .ni, .highlight .ne, .highlight .nn, .highlight .nx, .highlight .py, .highlight .w, .highlight .bp { color: #f8f8f2; }
+.highlight .p { font-weight: bold; color: #66d9ef; }
+.highlight .ge { text-decoration: underline; }
+.highlight .bp { font-style: italic; }
+.highlight .c, .highlight .ch, .highlight .cm, .highlight .cpf, .highlight .c1, .highlight .cs { color: #6272a4; }
+.highlight .kd, .highlight .kt, .highlight .nb, .highlight .nl, .highlight .nv, .highlight .vc, .highlight .vg, .highlight .vi, .highlight .vm { color: #8be9fd; }
+.highlight .kd, .highlight .nb, .highlight .nl, .highlight .nv, .highlight .vc, .highlight .vg, .highlight .vi, .highlight .vm { font-style: italic; }
+.highlight .fm, .highlight .na, .highlight .nc, .highlight .nf { color: #ace591; }
+.highlight .k, .highlight .o, .highlight .cp, .highlight .kc, .highlight .kn, .highlight .kp, .highlight .kr, .highlight .nt, .highlight .ow { color: #ff79c6; }
+.highlight .kc { color: #ace591; }
+.highlight .m, .highlight .mb, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .mo, .highlight .il { color: #bd93f9; }
+.highlight .gd { color: #ff5555; }
