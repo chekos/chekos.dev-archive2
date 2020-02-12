@@ -35,6 +35,8 @@ jobs:
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2
       if: github.event_name == 'push'
+      with:
+        keepFiles: true
       env:
         PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         #ACTIONS_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
