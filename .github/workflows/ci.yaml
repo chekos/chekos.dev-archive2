@@ -26,10 +26,7 @@ jobs:
     - name: Jekyll build
       uses: docker://jekyll/jekyll
       with:
-        args: jekyll build
-    - name: ads cname
-      run: |
-        echo "chekos.dev" > CNAME
+        args: jekyll build -V
 
     # only deploy upon a push to master
     - name: Deploy
