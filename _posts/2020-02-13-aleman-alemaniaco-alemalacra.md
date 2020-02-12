@@ -2,6 +2,9 @@
 
 > probando probando probando
 
+1. TOC
+{:toc}
+
 
 <div id="bees"><h3>Alemán</h3>Artistas relacionados (hasta dos niveles de separación)  <div id="tooltip" class="tooltip"> <!--
       <div class="tooltip-image">
