@@ -34,6 +34,6 @@ jobs:
       if: github.event_name == 'push'
       env:
         PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
-        ACTIONS_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
+        #ACTIONS_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
         PUBLISH_BRANCH: gh-pages
         PUBLISH_DIR: ./_site
