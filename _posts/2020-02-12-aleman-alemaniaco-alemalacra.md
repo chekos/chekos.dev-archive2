@@ -1,6 +1,13 @@
 # Artistas relacionados a Aléman en Spotify
 
 <style>
+#bees {
+    max-width: 480px;
+    width: 50%;
+    margin: auto;
+    background: #ccc;
+}
+
 .rapper-name {
   font: 0.8em sans-serif;
   stroke-width: .1px;
