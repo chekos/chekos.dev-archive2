@@ -1,31 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://chekos.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chekos.dev/" rel="alternate" type="text/html" /><updated>2020-02-12T17:21:25-06:00</updated><id>https://chekos.dev/feed.xml</id><title type="html">chekos.dev🤓</title><subtitle>Blog personal de Sergio Sánchez (@chekoswh). Existe como prueba de la facilidad de fast_template para crear blogs con markdown y jupyter notebooks.</subtitle><entry><title type="html">Artistas relacionados a Aléman en Spotify</title><link href="https://chekos.dev/2020/02/12/aleman-alemaniaco-alemalacra/" rel="alternate" type="text/html" title="Artistas relacionados a Aléman en Spotify" /><published>2020-02-12T00:00:00-06:00</published><updated>2020-02-12T00:00:00-06:00</updated><id>https://chekos.dev/2020/02/12/aleman-alemaniaco-alemalacra</id><content type="html" xml:base="https://chekos.dev/2020/02/12/aleman-alemaniaco-alemalacra/">&lt;blockquote&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://chekos.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chekos.dev/" rel="alternate" type="text/html" /><updated>2020-02-12T17:29:24-06:00</updated><id>https://chekos.dev/feed.xml</id><title type="html">chekos.dev🤓</title><subtitle>Blog personal de Sergio Sánchez (@chekoswh). Existe como prueba de la facilidad de fast_template para crear blogs con markdown y jupyter notebooks.</subtitle><entry><title type="html">Artistas relacionados a Aléman en Spotify</title><link href="https://chekos.dev/2020/02/12/aleman-alemaniaco-alemalacra/" rel="alternate" type="text/html" title="Artistas relacionados a Aléman en Spotify" /><published>2020-02-12T00:00:00-06:00</published><updated>2020-02-12T00:00:00-06:00</updated><id>https://chekos.dev/2020/02/12/aleman-alemaniaco-alemalacra</id><content type="html" xml:base="https://chekos.dev/2020/02/12/aleman-alemaniaco-alemalacra/">&lt;blockquote&gt;
   &lt;p&gt;probando probando probando&lt;/p&gt;
 &lt;/blockquote&gt;
 
 
-&lt;div id=&quot;bees&quot;&gt;&lt;h3&gt;Alemán&lt;/h3&gt;Artistas relacionados (hasta dos niveles de separación)  &lt;div id=&quot;tooltip&quot; class=&quot;tooltip&quot;&gt; &lt;!--
-      &lt;div class=&quot;tooltip-image&quot;&gt;
-          &lt;span id=&quot;image&quot;&gt;&lt;/span&gt;
-      &lt;/div&gt; 
-  &lt;div class=&quot;info&quot;&gt;--&gt;
-      &lt;div class=&quot;tooltip-name&quot;&gt;
-          &lt;span id=&quot;name&quot;&gt;&lt;/span&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;tooltip-followers&quot;&gt;
-          Seguidores: &lt;span id=&quot;followers&quot;&gt;&lt;/span&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;tooltip-popularity&quot;&gt;
-          Popularidad: &lt;span id=&quot;popularity&quot;&gt;&lt;/span&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;tooltip-genres&quot;&gt;
-          Generos: &lt;span id=&quot;genres&quot;&gt;&lt;/span&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;tooltip-music&quot;&gt;
-          Top track: &lt;span id=&quot;top-track&quot;&gt;&lt;/span&gt;
-      &lt;/div&gt;
+&lt;div style=&quot;max-width:80%&quot;&gt;
+    &lt;div id=&quot;bees&quot;&gt;
+        &lt;h3&gt;Alemán&lt;/h3&gt;
+        &lt;p&gt;Artistas relacionados (hasta dos niveles de separación)&lt;/p&gt;
+        &lt;div id=&quot;tooltip&quot; class=&quot;tooltip&quot;&gt;
+            &lt;div class=&quot;tooltip-name&quot;&gt;
+                &lt;span id=&quot;name&quot;&gt;&lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;tooltip-followers&quot;&gt;
+                Seguidores: &lt;span id=&quot;followers&quot;&gt;&lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;tooltip-popularity&quot;&gt;
+                Popularidad: &lt;span id=&quot;popularity&quot;&gt;&lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;tooltip-genres&quot;&gt;
+                Generos: &lt;span id=&quot;genres&quot;&gt;&lt;/span&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;tooltip-music&quot;&gt;
+                Top track: &lt;span id=&quot;top-track&quot;&gt;&lt;/span&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
   &lt;/div&gt;
-  &lt;/div&gt;
-&lt;p&gt;&amp;lt;/div&amp;gt;&lt;/p&gt;
 
 &lt;div id=&quot;observablehq-c0e03e6f&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;module&quot;&gt;
