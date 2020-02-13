@@ -5,7 +5,7 @@ async function drawBeeswarmPlot() {
     const width = document.getElementById("bees").offsetWidth
     // create chart dimensions
     const height = document.getElementById("bees").offsetHeight
-    const radius = 13
+    const radius = width / 50
     let margins = {top: 15, right: 15, bottom: 40, left: 60}
     margins.boundedHeight = height - margins.bottom - margins.top
     margins.boundedWidth = width - margins.left - margins.right
@@ -205,8 +205,8 @@ async function drawBeeswarmPlot() {
   </audio>
   `)    
       const x = rapperDatum.x + dimensions.margins.left
-      const y = rapperDatum.y - dimensions.margins.top
-      tooltip.style("transform", `translate( calc(-50% + ${x}px), calc( -100% + ${y}px))`)
+      const y = rapperDatum.y + dimensions.margins.top
+      tooltip.style("transform", `translate( calc(-50% + ${x}px), calc( -100% - ${y}px))`)
       tooltip.style("opacity", 1)
     }
     function onMouseLeave() {
