@@ -7,7 +7,7 @@
 1. TOC
 {:toc}
 
-<div style="max-width:80%">
+<div class="wrapper">
     <div id="bees">
         <h3>Alemán</h3>
         <p>Artistas relacionados (hasta dos niveles de separación)</p>
