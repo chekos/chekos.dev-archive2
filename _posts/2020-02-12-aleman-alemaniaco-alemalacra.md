@@ -8,6 +8,10 @@
 {:toc}
 
 <div class="wrapper">
+    <div id="bees" style="height:800px;">
+        <h3>Alemán</h3>
+        <p>Artistas relacionados (hasta dos niveles de separación)</p>
+    </div>
     <div id="tooltip" class="tooltip">
         <div class="tooltip-name">
             <span id="name"></span>
@@ -24,10 +28,6 @@
         <div class="tooltip-music">
             Top track: <span id="top-track"></span>
         </div>
-    </div>
-    <div id="bees">
-        <h3>Alemán</h3>
-        <p>Artistas relacionados (hasta dos niveles de separación)</p>
     </div>
   </div>
 
