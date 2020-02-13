@@ -206,7 +206,7 @@ async function drawBeeswarmPlot() {
   `)    
       const x = rapperDatum.x + dimensions.margins.left
       const y = rapperDatum.y + dimensions.margins.top
-      tooltip.style("transform", `translate( calc(-50% + ${x}px), calc( -100% - ${y}px))`)
+      tooltip.style("transform", `translate( calc(-50% + ${x}px), calc( -100% + ${y}px))`)
       tooltip.style("opacity", 1)
     }
     function onMouseLeave() {
