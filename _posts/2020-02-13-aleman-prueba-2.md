@@ -11,8 +11,8 @@
 }
 </style>
 
-  <p id="chart"></p>
-  <div class="fullwidth">
+  <div class="fullwidth">  
+    <div id="chart"></div>
     <div id="beeSwarmPlot"></div>
   </div>
 
@@ -20,7 +20,7 @@
   import notebook from "https://api.observablehq.com/@chekos/aleman-beeswarm-plot-using-spotify-data.js";
 
   const renders = {
-    "viewof p": "#chart",
+    "chart": "#chart",
     "display": "#beeSwarmPlot",
   };
 
