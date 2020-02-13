@@ -32,7 +32,7 @@
   </div>
 
 <script src="https://d3js.org/d3.v5.min.js"></script>
-<script src="{{ site.url }}/assets/posts/aleman/aleman-viz.js">drawBeeswarmPlot()</script>
+<script src="{{ site.url }}/assets/posts/aleman/aleman-viz.js"></script>
 
 
 <!-- <div id="observablehq-c0e03e6f"></div>
