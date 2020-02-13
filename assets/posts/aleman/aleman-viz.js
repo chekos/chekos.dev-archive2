@@ -2,7 +2,7 @@ async function drawBeeswarmPlot() {
     // Access data
     const data = await d3.json("https://gist.githubusercontent.com/chekos/e4694ec10cf4e81c6cffb2db5d13456f/raw/5651c4093e51d42694916b20906928f9884b8e65/aleman-network-v6.json")
     const nodes = data.nodes
-    
+    const width = window.innerWidth * 0.80
     // create chart dimensions
     const height = 900
     const radius = 13
@@ -10,7 +10,7 @@ async function drawBeeswarmPlot() {
     margins.boundedHeight = height - margins.bottom - margins.top
     margins.boundedWidth = width - margins.left - margins.right
     let dimensions = {
-      width: window.innerWidth * 0.80,
+      width: width,
       height: 900,
       radius: 15,
       margins: {
