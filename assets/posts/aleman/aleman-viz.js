@@ -4,7 +4,7 @@ async function drawBeeswarmPlot() {
     const nodes = data.nodes
     const width = document.getElementById("bees").offsetWidth
     // create chart dimensions
-    const height = width * 1.5
+    const height = document.getElementById("bees").offsetHeight
     const radius = 13
     let margins = {top: 15, right: 15, bottom: 40, left: 60}
     margins.boundedHeight = height - margins.bottom - margins.top
