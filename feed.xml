@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://chekos.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chekos.dev/" rel="alternate" type="text/html" /><updated>2020-02-13T11:04:19-06:00</updated><id>https://chekos.dev/feed.xml</id><title type="html">chekos.dev🤓</title><subtitle>Blog personal de Sergio Sánchez (@chekoswh). Existe como prueba de la facilidad de fast_template para crear blogs con markdown y jupyter notebooks.</subtitle><entry><title type="html">Artistas relacionados a Aléman en Spotify</title><link href="https://chekos.dev/2020/02/12/aleman-alemaniaco-alemalacra/" rel="alternate" type="text/html" title="Artistas relacionados a Aléman en Spotify" /><published>2020-02-12T00:00:00-06:00</published><updated>2020-02-12T00:00:00-06:00</updated><id>https://chekos.dev/2020/02/12/aleman-alemaniaco-alemalacra</id><content type="html" xml:base="https://chekos.dev/2020/02/12/aleman-alemaniaco-alemalacra/">&lt;style src=&quot;https://chekos.dev/assets/posts/aleman/aleman-viz.css&quot;&gt;&lt;/style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://chekos.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chekos.dev/" rel="alternate" type="text/html" /><updated>2020-02-13T11:19:57-06:00</updated><id>https://chekos.dev/feed.xml</id><title type="html">chekos.dev🤓</title><subtitle>Blog personal de Sergio Sánchez (@chekoswh). Existe como prueba de la facilidad de fast_template para crear blogs con markdown y jupyter notebooks.</subtitle><entry><title type="html">Aleman Alemalandro Alemalacra</title><link href="https://chekos.dev/2020/02/13/aleman-prueba-2/" rel="alternate" type="text/html" title="Aleman Alemalandro Alemalacra" /><published>2020-02-13T00:00:00-06:00</published><updated>2020-02-13T00:00:00-06:00</updated><id>https://chekos.dev/2020/02/13/aleman-prueba-2</id><content type="html" xml:base="https://chekos.dev/2020/02/13/aleman-prueba-2/">&lt;style&gt;
+/* https://css-tricks.com/full-width-containers-limited-width-parents/ */
+.fullwidth {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}
+&lt;/style&gt;
+
+&lt;p id=&quot;chart&quot;&gt;&lt;/p&gt;
+&lt;div class=&quot;fullwidth&quot;&gt;
+    &lt;div id=&quot;beeSwarmPlot&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+
+&lt;script type=&quot;module&quot;&gt;
+  import notebook from &quot;https://api.observablehq.com/@chekos/aleman-beeswarm-plot-using-spotify-data.js&quot;;
+
+  const renders = {
+    &quot;viewof p&quot;: &quot;#chart&quot;,
+    &quot;display&quot;: &quot;#beeSwarmPlot&quot;,
+  };
+
+  import {Inspector, Runtime} from &quot;https://unpkg.com/@observablehq/notebook-runtime@2?module&quot;;
+  for (let i in renders)
+    renders[i] = document.querySelector(renders[i]);
+
+  Runtime.load(notebook, (variable) =&gt; {
+    if (renders[variable.name])
+      return new Inspector(renders[variable.name]);
+  });
+&lt;/script&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Artistas relacionados a Aléman en Spotify</title><link href="https://chekos.dev/2020/02/12/aleman-alemaniaco-alemalacra/" rel="alternate" type="text/html" title="Artistas relacionados a Aléman en Spotify" /><published>2020-02-12T00:00:00-06:00</published><updated>2020-02-12T00:00:00-06:00</updated><id>https://chekos.dev/2020/02/12/aleman-alemaniaco-alemalacra</id><content type="html" xml:base="https://chekos.dev/2020/02/12/aleman-alemaniaco-alemalacra/">&lt;style src=&quot;https://chekos.dev/assets/posts/aleman/aleman-viz.css&quot;&gt;&lt;/style&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;probando probando probando&lt;/p&gt;
