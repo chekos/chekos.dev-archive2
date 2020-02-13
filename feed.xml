@@ -1,123 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://chekos.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chekos.dev/" rel="alternate" type="text/html" /><updated>2020-02-12T17:52:05-06:00</updated><id>https://chekos.dev/feed.xml</id><title type="html">chekos.dev🤓</title><subtitle>Blog personal de Sergio Sánchez (@chekoswh). Existe como prueba de la facilidad de fast_template para crear blogs con markdown y jupyter notebooks.</subtitle><entry><title type="html">Artistas relacionados a Aléman en Spotify</title><link href="https://chekos.dev/2020/02/12/aleman-alemaniaco-alemalacra/" rel="alternate" type="text/html" title="Artistas relacionados a Aléman en Spotify" /><published>2020-02-12T00:00:00-06:00</published><updated>2020-02-12T00:00:00-06:00</updated><id>https://chekos.dev/2020/02/12/aleman-alemaniaco-alemalacra</id><content type="html" xml:base="https://chekos.dev/2020/02/12/aleman-alemaniaco-alemalacra/">&lt;style&gt;
-#bees {
-    max-width: 480px;
-    width: 50%;
-    margin: auto;
-    background: #ccc;
-}
-
-.rapper-name {
-  font: 0.8em sans-serif;
-  stroke-width: .1px;
-  stroke: #c7c7c7;
-}
-.right-side-name {
-  text-anchor: start;
-}
-.left-side-name {
-  text-anchor: end;
-}
-.y-axis-label {
-  font: 1.2em sans-serif;
-  text-anchor: middle;
-  fill: black;
-  transform: rotate(-90deg);
-}
-.y-axis {
-  font: 0.8em sans-serif;
-
-}
-
-.tooltip {
-    opacity: 0;
-    position: absolute;
-    top: -14px;
-    left: 0;
-    padding: 0.6em 1em;
-    background: #fff;
-    text-align: center;
-    line-height: 1.4em;
-    font-size: 0.9em;
-    border: 1px solid #ddd;
-    z-index: 10;
-    transition: all 0.1s ease-out;
-    pointer-events: none;
-    max-width: 45%;
-}
-
-.tooltip:before {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    width: 12px;
-    height: 12px;
-    background: white;
-    border: 1px solid #ddd;
-    border-top-color: transparent;
-    border-left-color: transparent;
-    transform: translate(-50%, 50%) rotate(45deg);
-    transform-origin: center center;
-    z-index: 10;
-}
-
-.tooltip-name {
-    margin-bottom: 0.2em;
-    font-weight: 600;
-    font-size: 1.1em;
-    line-height: 1.4em;
-    text-align: center;
-}
-.tooltip-image {
-    text-align: center;
-}
-
-.genres {
-  overflow-wrap: break-word;
-}
-
-image{
-  position: relative;
-  align-items: center;
-}
-
-.tooltip-image{
-  position: relative;
-  float: left;
-  text-align : center; 
-  width: 47%;
-  vertical-align: middle;
-}
-
-.tooltip-image img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto; 
-  width: 100%;
-  height: auto;
-  //height: calc(100vh/10);
-}
-
-.info{
-  position: relative;
-  float: right; 
-  width: 45%;
-  vertical-align: middle;
-  text-align: left;
-}
-
-audio {
-  max-width: 50%;
-}
-
-.lil-album{
-  text-align: center;
-  width: 50%;
-}
-figure {
-  text-align: center;
-}
-&lt;/style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://chekos.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chekos.dev/" rel="alternate" type="text/html" /><updated>2020-02-12T18:02:34-06:00</updated><id>https://chekos.dev/feed.xml</id><title type="html">chekos.dev🤓</title><subtitle>Blog personal de Sergio Sánchez (@chekoswh). Existe como prueba de la facilidad de fast_template para crear blogs con markdown y jupyter notebooks.</subtitle><entry><title type="html">Artistas relacionados a Aléman en Spotify</title><link href="https://chekos.dev/2020/02/12/aleman-alemaniaco-alemalacra/" rel="alternate" type="text/html" title="Artistas relacionados a Aléman en Spotify" /><published>2020-02-12T00:00:00-06:00</published><updated>2020-02-12T00:00:00-06:00</updated><id>https://chekos.dev/2020/02/12/aleman-alemaniaco-alemalacra</id><content type="html" xml:base="https://chekos.dev/2020/02/12/aleman-alemaniaco-alemalacra/">&lt;style src=&quot;../assets/posts/aleman/aleman-viz.css&quot;&gt;&lt;/style&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;probando probando probando&lt;/p&gt;
@@ -148,13 +29,17 @@ figure {
     &lt;/div&gt;
   &lt;/div&gt;
 
-&lt;div id=&quot;observablehq-c0e03e6f&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://d3js.org/d3.v5.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;script src=&quot;../assets/posts/aleman/aleman-viz.js&quot;&gt;&lt;/script&gt;
+
+&lt;!-- &lt;div id=&quot;observablehq-c0e03e6f&quot;&gt;&lt;/div&gt;
 &lt;script type=&quot;module&quot;&gt;
 import {Runtime, Inspector} from &quot;https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js&quot;;
 import define from &quot;https://api.observablehq.com/@chekos/aleman-beeswarm-plot-using-spotify-data.js?v=3&quot;;
 const inspect = Inspector.into(&quot;#observablehq-c0e03e6f&quot;);
 (new Runtime).module(define, name =&gt; (name === &quot;drawBeeswarmPlot&quot;) &amp;&amp; inspect());
-&lt;/script&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Ejemplo de Notebook con Altair</title><link href="https://chekos.dev/2020/02/11/ejemplo-de-jupyter-y-altair/" rel="alternate" type="text/html" title="Ejemplo de Notebook con Altair" /><published>2020-02-11T00:00:00-06:00</published><updated>2020-02-11T00:00:00-06:00</updated><id>https://chekos.dev/2020/02/11/ejemplo-de-jupyter-y-altair</id><content type="html" xml:base="https://chekos.dev/2020/02/11/ejemplo-de-jupyter-y-altair/">&lt;!--
+&lt;/script&gt; --&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Ejemplo de Notebook con Altair</title><link href="https://chekos.dev/2020/02/11/ejemplo-de-jupyter-y-altair/" rel="alternate" type="text/html" title="Ejemplo de Notebook con Altair" /><published>2020-02-11T00:00:00-06:00</published><updated>2020-02-11T00:00:00-06:00</updated><id>https://chekos.dev/2020/02/11/ejemplo-de-jupyter-y-altair</id><content type="html" xml:base="https://chekos.dev/2020/02/11/ejemplo-de-jupyter-y-altair/">&lt;!--
 
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
