@@ -1,20 +1,8 @@
 # Aleman Alemalandro Alemalacra
-<style>
-/* https://css-tricks.com/full-width-containers-limited-width-parents/ */
-.fullwidth {
-  width: 100vw;
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-}
-</style>
 
-  <div class="fullwidth">  
-    <div id="chart"></div>
-    <div id="beeSwarmPlot"></div>
-  </div>
+  <div id="chart"></div>
+  <div id="beeSwarmPlot"></div>
+
 
   <script type="module">
   import notebook from "https://api.observablehq.com/@chekos/aleman-beeswarm-plot-using-spotify-data.js";
