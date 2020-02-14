@@ -12,11 +12,14 @@ github_username: chekos
 
 # Email and twitter are optional:
 email: chekos@tacosdedatos.com
-twitter_username: chekoswh
+twitter_username: "@ChekosWH"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 url: https://chekos.dev #the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
+
+# you can comment the below line out if your repo name is not different than your baseurl
+github_repo: "chekos.dev"
 
 # Set this to true to get LaTeX math equation support
 use_math: true
