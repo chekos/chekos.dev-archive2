@@ -38,7 +38,7 @@ Hace unas semanas encontré esta herramienta: [http://labs.polsys.net/playground
 
 La herramienta utiliza la API de Spotify para crear una red de artistas relacionados hasta dos niveles de separación. Es decir, cuando yo escribo Alemán en la caja de texto la herramienta va y busca todos los artistas relacionados a Alemán (nivel uno) y también busca los artistas relacionados esos artistas (nivel dos). 
 
-{% include note.html text="Si te interesaría saber más de la metodología detrás de esta herramienta déjame un comentario en este post 🤓🎧" %}
+{% include note.html content="Si te interesaría saber más de la metodología detrás de esta herramienta déjame un comentario en este post 🤓🎧" %}
 
 Así se ve la red de Alemán
 ![]({{ site.url }}/assets/posts/aleman/red-de-artistas.jpg)
@@ -54,7 +54,7 @@ Más que todo esto, quería una manera fácil de explorar estos datos.
 
 El resultado fue este Observable Notebook: [https://observablehq.com/@chekos/aleman-beeswarm-plot-using-spotify-data](https://observablehq.com/@chekos/aleman-beeswarm-plot-using-spotify-data)
 
-{% include tip.html text="Esto se ve mejor en el Notebook y en tu computadora. No lo he 'optimizado' para móvil." %}
+{% include tip.html content="Esto se ve mejor en el Notebook y en tu computadora. No lo he 'optimizado' para móvil." %}
 
 ## La visualización
 Hay solo 5 artistas (+ Alemán) con más de un millón de seguidores en Spotify:
