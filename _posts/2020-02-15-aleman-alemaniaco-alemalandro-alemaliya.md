@@ -37,6 +37,7 @@ Todos se conectan. En mi mente, por lo menos. Quería saber si los datos respald
 Hace unas semanas encontré esta herramienta: [http://labs.polsys.net/playground/spotify/](http://labs.polsys.net/playground/spotify/)
 
 La herramienta utiliza la API de Spotify para crear una red de artistas relacionados hasta dos niveles de separación. Es decir, cuando yo escribo Alemán en la caja de texto la herramienta va y busca todos los artistas relacionados a Alemán (nivel uno) y también busca los artistas relacionados esos artistas (nivel dos). 
+
 {% include note.html text="Si te interesaría saber más de la metodología detrás de esta herramienta déjame un comentario en este post 🤓🎧" %}
 
 Así se ve la red de Alemán
