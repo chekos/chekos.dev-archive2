@@ -34,13 +34,13 @@ En mi mente existen estas conexiones entre todos estos artistas. Alemán con Ger
 
 Todos se conectan. En mi mente, por lo menos. Quería saber si los datos respaldaban mis pensamientos. 
 
-Hace unas semanas encontré esta herramienta: [http://labs.polsys.net/playground/spotify/](http://labs.polsys.net/playground/spotify/]
+Hace unas semanas encontré esta herramienta: [http://labs.polsys.net/playground/spotify/](http://labs.polsys.net/playground/spotify/)
 
 La herramienta utiliza la API de Spotify para crear una red de artistas relacionados hasta dos niveles de separación. Es decir, cuando yo escribo Alemán en la caja de texto la herramienta va y busca todos los artistas relacionados a Alemán (nivel uno) y también busca los artistas relacionados esos artistas (nivel dos). 
 > Note: Si te interesaría saber más de la metodología detrás de esta herramienta déjame un comentario en este post 🤓🎧  
 
 Así se ve la red de Alemán
-![]({{ site.baseurl }}/assets/posts/aleman/red-de-artistas.jpg)
+![]({{ site.url }}/assets/posts/aleman/red-de-artistas.jpg)
 
 La herramienta tiene la opción de descargar los datos. Uno de los atributos de esos datos son las IDs únicas que Spotify le asigna a cada artista. Con estas IDs puedes utilizar la API de Spotify para obtener más información de cada artista como su índice de popularidad, cuántos seguidores tienen, sus canciones más populares y mucho más. 
 
