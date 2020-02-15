@@ -3,6 +3,10 @@ comments: true
 ---
 
 # Alemán: Alemalacra Alemalandro Alemaliya
+1. 
+{:toc}
+
+## La historia
 Antes de crear **tacosdedatos** intenté crear un blog de Hip Hop Latino-americano donde iba a analizar de una manera cuantitativa la calidad de discos y canciones. 
 
 No llegó muy lejos, era en Square space y no era tan fácil escribir notas. Bueno, no tan fácil como lo es ahora que aprendí de blogs y sitios estáticos en GitHub. Aquí puedo escribir todo en mi celular y copiarlo a un archivo markdown directamente en GitHub y _voilà_ tengo un blog. 
@@ -30,7 +34,7 @@ En mi mente existen estas conexiones entre todos estos artistas. Alemán con Ger
 
 Todos se conectan. En mi mente, por lo menos. Quería saber si los datos respaldaban mis pensamientos. 
 
-Hace unas semanas encontré esta herramienta: http://labs.polsys.net/playground/spotify/
+Hace unas semanas encontré esta herramienta: [http://labs.polsys.net/playground/spotify/](http://labs.polsys.net/playground/spotify/]
 
 La herramienta utiliza la API de Spotify para crear una red de artistas relacionados hasta dos niveles de separación. Es decir, cuando yo escribo Alemán en la caja de texto la herramienta va y busca todos los artistas relacionados a Alemán (nivel uno) y también busca los artistas relacionados esos artistas (nivel dos). 
 > Note: Si te interesaría saber más de la metodología detrás de esta herramienta déjame un comentario en este post 🤓🎧  
@@ -47,9 +51,9 @@ Justo eso fue lo que hice para crear una visualización diferente. Sabiendo que 
 
 Más que todo esto, quería una manera fácil de explorar estos datos. 
 
-El resultado fue este Observable Notebook: https://observablehq.com/@chekos/aleman-beeswarm-plot-using-spotify-data
+El resultado fue este Observable Notebook: [https://observablehq.com/@chekos/aleman-beeswarm-plot-using-spotify-data](https://observablehq.com/@chekos/aleman-beeswarm-plot-using-spotify-data)
 
-> Tip: Esto se ve mejor en el Notebook y en tu computadora. No lo he "optimizado" para móvil.   
+{ include tip.html text="Esto se ve mejor en el Notebook y en tu computadora. No lo he 'optimizado' para móvil." }
 
 ## La visualización
 Hay solo 5 artistas (+ Alemán) con más de un millón de seguidores en Spotify:
