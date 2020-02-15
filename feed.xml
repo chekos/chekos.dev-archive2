@@ -1,10 +1,116 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://chekos.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chekos.dev/" rel="alternate" type="text/html" /><updated>2020-02-15T09:52:00-06:00</updated><id>https://chekos.dev/feed.xml</id><title type="html">chekos.dev🤓</title><subtitle>Blog personal de Sergio Sánchez (@chekoswh). Existe como prueba de la facilidad de fast_template para crear blogs con markdown y jupyter notebooks.</subtitle><entry><title type="html">Probando comments</title><link href="https://chekos.dev/2020/02/15/probando-comments/" rel="alternate" type="text/html" title="Probando comments" /><published>2020-02-15T00:00:00-06:00</published><updated>2020-02-15T00:00:00-06:00</updated><id>https://chekos.dev/2020/02/15/probando-comments</id><content type="html" xml:base="https://chekos.dev/2020/02/15/probando-comments/">&lt;p&gt;Este post es solo para ver si funciona la front matter del archivo.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://chekos.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chekos.dev/" rel="alternate" type="text/html" /><updated>2020-02-15T15:33:44-06:00</updated><id>https://chekos.dev/feed.xml</id><title type="html">chekos.dev🤓</title><subtitle>Blog personal de Sergio Sánchez (@chekoswh). Existe como prueba de la facilidad de fast_template para crear blogs con markdown y jupyter notebooks.</subtitle><entry><title type="html">Probando comments</title><link href="https://chekos.dev/2020/02/15/probando-comments/" rel="alternate" type="text/html" title="Probando comments" /><published>2020-02-15T00:00:00-06:00</published><updated>2020-02-15T00:00:00-06:00</updated><id>https://chekos.dev/2020/02/15/probando-comments</id><content type="html" xml:base="https://chekos.dev/2020/02/15/probando-comments/">&lt;p&gt;Este post es solo para ver si funciona la front matter del archivo.&lt;/p&gt;
 
 &lt;h2 id=&quot;comments&quot;&gt;Comments&lt;/h2&gt;
 &lt;p&gt;también para ver si funcionó esto de los Comments a través de Utterances de GitHub.&lt;/p&gt;
 
 &lt;h3 id=&quot;sub-header-para-lá-toc&quot;&gt;Sub header para lá TOC&lt;/h3&gt;
-&lt;p&gt;🎧🔥&lt;/p&gt;</content><author><name></name></author><summary type="html">Este post es solo para ver si funciona la front matter del archivo.</summary></entry><entry><title type="html">Aleman Alemalandro Alemalacra</title><link href="https://chekos.dev/2020/02/13/aleman-prueba-2/" rel="alternate" type="text/html" title="Aleman Alemalandro Alemalacra" /><published>2020-02-13T00:00:00-06:00</published><updated>2020-02-13T00:00:00-06:00</updated><id>https://chekos.dev/2020/02/13/aleman-prueba-2</id><content type="html" xml:base="https://chekos.dev/2020/02/13/aleman-prueba-2/">&lt;!-- &lt;div id=&quot;chart&quot;&gt;&lt;/div&gt;
+&lt;p&gt;🎧🔥&lt;/p&gt;</content><author><name></name></author><summary type="html">Este post es solo para ver si funciona la front matter del archivo.</summary></entry><entry><title type="html">Alemán: Alemalacra Alemalandro Alemaliya</title><link href="https://chekos.dev/2020/02/15/aleman-alemaniaco-alemalandro-alemaliya/" rel="alternate" type="text/html" title="Alemán: Alemalacra Alemalandro Alemaliya" /><published>2020-02-15T00:00:00-06:00</published><updated>2020-02-15T00:00:00-06:00</updated><id>https://chekos.dev/2020/02/15/aleman-alemaniaco-alemalandro-alemaliya</id><content type="html" xml:base="https://chekos.dev/2020/02/15/aleman-alemaniaco-alemalandro-alemaliya/">&lt;p&gt;Antes de crear &lt;strong&gt;tacosdedatos&lt;/strong&gt; intenté crear un blog de Hip Hop Latino-americano donde iba a analizar de una manera cuantitativa la calidad de discos y canciones.&lt;/p&gt;
+
+&lt;p&gt;No llegó muy lejos, era en Square space y no era tan fácil escribir notas. Bueno, no tan fácil como lo es ahora que aprendí de blogs y sitios estáticos en GitHub. Aquí puedo escribir todo en mi celular y copiarlo a un archivo markdown directamente en GitHub y &lt;em&gt;voilà&lt;/em&gt; tengo un blog.&lt;/p&gt;
+
+&lt;p&gt;El que haya fallado &lt;strong&gt;elblogdehiphop&lt;/strong&gt; no significa que mi amor por el Hip Hop haya disminuido ni siquiera un poco. Según Spotify, mis artistas más reproducidos son, en orden:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Alemán&lt;/li&gt;
+  &lt;li&gt;La Plebada&lt;/li&gt;
+  &lt;li&gt;Gera MX&lt;/li&gt;
+  &lt;li&gt;Remik González&lt;/li&gt;
+  &lt;li&gt;West Gold&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Esta nota es sobre el número uno: Alemán.&lt;/p&gt;
+
+&lt;p&gt;Alemán ha sido uno de mis artistas favoritos desde la primera vez que lo escuché. En aquellos tiempos yo no sabía lo que se de Hip Hop pero muy dentro de mi sentía que Alemán era excelente en lo que hacía. No sabía que era eso todavía pero sabía que él era uno de los grandes.&lt;/p&gt;
+
+&lt;p&gt;Hoy en día, uso la palabra &lt;strong&gt;&lt;em&gt;flow&lt;/em&gt;&lt;/strong&gt; para describir lo que diferencia Alemán de los demás.&lt;/p&gt;
+
+&lt;p&gt;El genio de Alemán es saber que decir, cuando decirlo y como decirlo. No suena repetitivo, no suena forzado. En otra nota hablaremos más del flow de Aleman.&lt;/p&gt;
+
+&lt;p&gt;Yo creo no soy el único que piensa esto de Alemán porque es de los pocos raperos mexicanos con más de un millón de seguidores en Spotify.&lt;/p&gt;
+
+&lt;p&gt;El que sea popular ahora no significa que siempre lo fue. Alemán comenzó en la Mexamafia como Gera MX. Un grupo conocido por su calidad &lt;em&gt;hardcore&lt;/em&gt; y underground. Curiosamente ambos, Alemán y Gera MX son artistas muy exitosos el día de hoy y aunque se adentren en el mundo del trap y sonidos más populares no pierden el respeto como exponentes del Hip Hop mexicano.&lt;/p&gt;
+
+&lt;p&gt;En mi mente existen estas conexiones entre todos estos artistas. Alemán con Gera MX por la Mexamafia. Pero Alemán ahora está en la Homegrown con La Banda Bastön, Yoga Fire, Fntxy, Cozy Cuz, Mike Díaz, Dee. Dee es parte de Hood P con MOF. Mike Díaz es Neverdie con el Eptos. La Banda Bastön es Vieja Guardia. Al Gera lo relaciono con Charles Ans pero Charles es Anestesia. Charles Ans tiene rolas con Taxi Dee (el nombre que Fntxy usa cuando produce). Fntxy ahora tiene el grupo La Plebada junto a Cozy Cuz quien va Bobby Bass cuando produce. Bobby Bass comenzó a agarrar más tracción cuando comenzó a trabajar con Alemán.&lt;/p&gt;
+
+&lt;p&gt;Todos se conectan. En mi mente, por lo menos. Quería saber si los datos respaldaban mis pensamientos.&lt;/p&gt;
+
+&lt;p&gt;Hace unas semanas encontré esta herramienta: http://labs.polsys.net/playground/spotify/&lt;/p&gt;
+
+&lt;p&gt;La herramienta utiliza la API de Spotify para crear una red de artistas relacionados hasta dos niveles de separación. Es decir, cuando yo escribo Alemán en la caja de texto la herramienta va y busca todos los artistas relacionados a Alemán (nivel uno) y también busca los artistas relacionados esos artistas (nivel dos).&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Note: Si te interesaría saber más de la metodología detrás de esta herramienta déjame un comentario en este post 🤓🎧&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Así se ve la red de Alemán
+&lt;img src=&quot;//assets/posts/aleman/red-de-artistas.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;La herramienta tiene la opción de descargar los datos. Uno de los atributos de esos datos son las IDs únicas que Spotify le asigna a cada artista. Con estas IDs puedes utilizar la API de Spotify para obtener más información de cada artista como su índice de popularidad, cuántos seguidores tienen, sus canciones más populares y mucho más.&lt;/p&gt;
+
+&lt;p&gt;Justo eso fue lo que hice para crear una visualización diferente. Sabiendo que el “universo” de mis datos es &lt;strong&gt;artistas relacionados a Alemán hasta dos niveles de separación&lt;/strong&gt; puedo hacer preguntas como:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;¿cómo se compara la popularidad de Alemán con la de artistas relacionados?&lt;/li&gt;
+  &lt;li&gt;¿de qué géneros musicales vienen éstos artistas?&lt;/li&gt;
+  &lt;li&gt;¿cuántos artistas relacionados a Alemán tienen más de un millón de seguidores?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Más que todo esto, quería una manera fácil de explorar estos datos.&lt;/p&gt;
+
+&lt;p&gt;El resultado fue este Observable Notebook: https://observablehq.com/@chekos/aleman-beeswarm-plot-using-spotify-data&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Tip: Esto se ve mejor en el Notebook y en tu computadora. No lo he “optimizado” para móvil.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;la-visualización&quot;&gt;La visualización&lt;/h2&gt;
+&lt;p&gt;Hay solo 5 artistas (+ Alemán) con más de un millón de seguidores en Spotify:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Cartel de Santa 3.94M&lt;/li&gt;
+  &lt;li&gt;El Komander 1.46M&lt;/li&gt;
+  &lt;li&gt;Molotov 1.42M&lt;/li&gt;
+  &lt;li&gt;Panteón Rococo 1.28M&lt;/li&gt;
+  &lt;li&gt;Beret 1.15M&lt;/li&gt;
+  &lt;li&gt;Alemán 1.08M&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Muchos son artistas de rap y hip-hop pero también hay artistas de pop, rock en español, reggea y ska.&lt;/p&gt;
+
+&lt;p&gt;Alemán está entre los más populares de este universo lo cual me estoy tomando la libertad de etiquetar como positivo. De alguna manera, este artista underground que llegó a esta altura le está abriendo la puerta a todos estos demás artistas con menos popularidad. Mínimo, Spotify los identifica como artistas relacionados y tal vez aparezcan en una de esas listas de reproducción automatizadas juntos 🤷🏻‍♂️&lt;/p&gt;
+
+&lt;div id=&quot;visual&quot;&gt;&lt;/div&gt;
+
+&lt;script type=&quot;module&quot;&gt;
+
+  // NOTEBOOK CONFIGURATION
+  import notebook from &quot;https://api.observablehq.com/@chekos/aleman-beeswarm-plot-using-spotify-data.js&quot;;
+
+
+  const target = document.querySelector(&quot;#visual&quot;);
+  const renders = {
+    // &quot;viewof p&quot;: &quot;p&quot;,
+    &quot;chart&quot;: &quot;div.fullwidth&quot;,
+  };
+
+
+  // BOILERPLATE
+  import {Inspector, Runtime} from &quot;https://unpkg.com/@observablehq/notebook-runtime@2?module&quot;;
+  for (let i in renders) {
+    let s = renders[i], a = s.match(/^\w+/);
+    if (a) {
+      renders[i] = document.createElement(a[0]);
+      target.appendChild(renders[i]);
+      if (a = s.match(/\.(\w+)$/))
+        renders[i].className = a[1]; 
+    }
+    else
+      renders[i] = document.querySelector(renders[i]);
+  }
+  Runtime.load(notebook, (variable) =&gt; {
+    if (renders[variable.name]) {
+      return new Inspector(renders[variable.name]);
+    } else {
+      // return true; // uncomment to run hidden cells
+    }
+  });
+&lt;/script&gt;</content><author><name></name></author><summary type="html">Antes de crear tacosdedatos intenté crear un blog de Hip Hop Latino-americano donde iba a analizar de una manera cuantitativa la calidad de discos y canciones.</summary></entry><entry><title type="html">Aleman Alemalandro Alemalacra</title><link href="https://chekos.dev/2020/02/13/aleman-prueba-2/" rel="alternate" type="text/html" title="Aleman Alemalandro Alemalacra" /><published>2020-02-13T00:00:00-06:00</published><updated>2020-02-13T00:00:00-06:00</updated><id>https://chekos.dev/2020/02/13/aleman-prueba-2</id><content type="html" xml:base="https://chekos.dev/2020/02/13/aleman-prueba-2/">&lt;!-- &lt;div id=&quot;chart&quot;&gt;&lt;/div&gt;
   &lt;div id=&quot;beeSwarmPlot&quot;&gt;&lt;/div&gt;
 
 
