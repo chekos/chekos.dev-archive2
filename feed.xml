@@ -1,10 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://chekos.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chekos.dev/" rel="alternate" type="text/html" /><updated>2020-02-15T15:34:07-06:00</updated><id>https://chekos.dev/feed.xml</id><title type="html">chekos.dev🤓</title><subtitle>Blog personal de Sergio Sánchez (@chekoswh). Existe como prueba de la facilidad de fast_template para crear blogs con markdown y jupyter notebooks.</subtitle><entry><title type="html">Probando comments</title><link href="https://chekos.dev/2020/02/15/probando-comments/" rel="alternate" type="text/html" title="Probando comments" /><published>2020-02-15T00:00:00-06:00</published><updated>2020-02-15T00:00:00-06:00</updated><id>https://chekos.dev/2020/02/15/probando-comments</id><content type="html" xml:base="https://chekos.dev/2020/02/15/probando-comments/">&lt;p&gt;Este post es solo para ver si funciona la front matter del archivo.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://chekos.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chekos.dev/" rel="alternate" type="text/html" /><updated>2020-02-15T15:55:10-06:00</updated><id>https://chekos.dev/feed.xml</id><title type="html">chekos.dev🤓</title><subtitle>Blog personal de Sergio Sánchez (@chekoswh). Existe como prueba de la facilidad de fast_template para crear blogs con markdown y jupyter notebooks.</subtitle><entry><title type="html">Probando comments</title><link href="https://chekos.dev/2020/02/15/probando-comments/" rel="alternate" type="text/html" title="Probando comments" /><published>2020-02-15T00:00:00-06:00</published><updated>2020-02-15T00:00:00-06:00</updated><id>https://chekos.dev/2020/02/15/probando-comments</id><content type="html" xml:base="https://chekos.dev/2020/02/15/probando-comments/">&lt;p&gt;Este post es solo para ver si funciona la front matter del archivo.&lt;/p&gt;
 
 &lt;h2 id=&quot;comments&quot;&gt;Comments&lt;/h2&gt;
 &lt;p&gt;también para ver si funcionó esto de los Comments a través de Utterances de GitHub.&lt;/p&gt;
 
 &lt;h3 id=&quot;sub-header-para-lá-toc&quot;&gt;Sub header para lá TOC&lt;/h3&gt;
-&lt;p&gt;🎧🔥&lt;/p&gt;</content><author><name></name></author><summary type="html">Este post es solo para ver si funciona la front matter del archivo.</summary></entry><entry><title type="html">Alemán: Alemalacra Alemalandro Alemaliya</title><link href="https://chekos.dev/2020/02/15/aleman-alemaniaco-alemalandro-alemaliya/" rel="alternate" type="text/html" title="Alemán: Alemalacra Alemalandro Alemaliya" /><published>2020-02-15T00:00:00-06:00</published><updated>2020-02-15T00:00:00-06:00</updated><id>https://chekos.dev/2020/02/15/aleman-alemaniaco-alemalandro-alemaliya</id><content type="html" xml:base="https://chekos.dev/2020/02/15/aleman-alemaniaco-alemalandro-alemaliya/">&lt;p&gt;Antes de crear &lt;strong&gt;tacosdedatos&lt;/strong&gt; intenté crear un blog de Hip Hop Latino-americano donde iba a analizar de una manera cuantitativa la calidad de discos y canciones.&lt;/p&gt;
+&lt;p&gt;🎧🔥&lt;/p&gt;</content><author><name></name></author><summary type="html">Este post es solo para ver si funciona la front matter del archivo.</summary></entry><entry><title type="html">Alemán: Alemalacra Alemalandro Alemaliya</title><link href="https://chekos.dev/2020/02/15/aleman-alemaniaco-alemalandro-alemaliya/" rel="alternate" type="text/html" title="Alemán: Alemalacra Alemalandro Alemaliya" /><published>2020-02-15T00:00:00-06:00</published><updated>2020-02-15T00:00:00-06:00</updated><id>https://chekos.dev/2020/02/15/aleman-alemaniaco-alemalandro-alemaliya</id><content type="html" xml:base="https://chekos.dev/2020/02/15/aleman-alemaniaco-alemalandro-alemaliya/">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#la-historia&quot; id=&quot;markdown-toc-la-historia&quot;&gt;La historia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#la-visualización&quot; id=&quot;markdown-toc-la-visualización&quot;&gt;La visualización&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;la-historia&quot;&gt;La historia&lt;/h2&gt;
+&lt;p&gt;Antes de crear &lt;strong&gt;tacosdedatos&lt;/strong&gt; intenté crear un blog de Hip Hop Latino-americano donde iba a analizar de una manera cuantitativa la calidad de discos y canciones.&lt;/p&gt;
 
 &lt;p&gt;No llegó muy lejos, era en Square space y no era tan fácil escribir notas. Bueno, no tan fácil como lo es ahora que aprendí de blogs y sitios estáticos en GitHub. Aquí puedo escribir todo en mi celular y copiarlo a un archivo markdown directamente en GitHub y &lt;em&gt;voilà&lt;/em&gt; tengo un blog.&lt;/p&gt;
 
@@ -33,7 +39,7 @@
 
 &lt;p&gt;Todos se conectan. En mi mente, por lo menos. Quería saber si los datos respaldaban mis pensamientos.&lt;/p&gt;
 
-&lt;p&gt;Hace unas semanas encontré esta herramienta: http://labs.polsys.net/playground/spotify/&lt;/p&gt;
+&lt;p&gt;Hace unas semanas encontré esta herramienta: [http://labs.polsys.net/playground/spotify/](http://labs.polsys.net/playground/spotify/]&lt;/p&gt;
 
 &lt;p&gt;La herramienta utiliza la API de Spotify para crear una red de artistas relacionados hasta dos niveles de separación. Es decir, cuando yo escribo Alemán en la caja de texto la herramienta va y busca todos los artistas relacionados a Alemán (nivel uno) y también busca los artistas relacionados esos artistas (nivel dos).&lt;/p&gt;
 &lt;blockquote&gt;
@@ -54,11 +60,9 @@
 
 &lt;p&gt;Más que todo esto, quería una manera fácil de explorar estos datos.&lt;/p&gt;
 
-&lt;p&gt;El resultado fue este Observable Notebook: https://observablehq.com/@chekos/aleman-beeswarm-plot-using-spotify-data&lt;/p&gt;
+&lt;p&gt;El resultado fue este Observable Notebook: &lt;a href=&quot;https://observablehq.com/@chekos/aleman-beeswarm-plot-using-spotify-data&quot;&gt;https://observablehq.com/@chekos/aleman-beeswarm-plot-using-spotify-data&lt;/a&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Tip: Esto se ve mejor en el Notebook y en tu computadora. No lo he “optimizado” para móvil.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;{ include tip.html text=”Esto se ve mejor en el Notebook y en tu computadora. No lo he ‘optimizado’ para móvil.” }&lt;/p&gt;
 
 &lt;h2 id=&quot;la-visualización&quot;&gt;La visualización&lt;/h2&gt;
 &lt;p&gt;Hay solo 5 artistas (+ Alemán) con más de un millón de seguidores en Spotify:&lt;/p&gt;
@@ -110,7 +114,7 @@
       // return true; // uncomment to run hidden cells
     }
   });
-&lt;/script&gt;</content><author><name></name></author><summary type="html">Antes de crear tacosdedatos intenté crear un blog de Hip Hop Latino-americano donde iba a analizar de una manera cuantitativa la calidad de discos y canciones.</summary></entry><entry><title type="html">Aleman Alemalandro Alemalacra</title><link href="https://chekos.dev/2020/02/13/aleman-prueba-2/" rel="alternate" type="text/html" title="Aleman Alemalandro Alemalacra" /><published>2020-02-13T00:00:00-06:00</published><updated>2020-02-13T00:00:00-06:00</updated><id>https://chekos.dev/2020/02/13/aleman-prueba-2</id><content type="html" xml:base="https://chekos.dev/2020/02/13/aleman-prueba-2/">&lt;!-- &lt;div id=&quot;chart&quot;&gt;&lt;/div&gt;
+&lt;/script&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Aleman Alemalandro Alemalacra</title><link href="https://chekos.dev/2020/02/13/aleman-prueba-2/" rel="alternate" type="text/html" title="Aleman Alemalandro Alemalacra" /><published>2020-02-13T00:00:00-06:00</published><updated>2020-02-13T00:00:00-06:00</updated><id>https://chekos.dev/2020/02/13/aleman-prueba-2</id><content type="html" xml:base="https://chekos.dev/2020/02/13/aleman-prueba-2/">&lt;!-- &lt;div id=&quot;chart&quot;&gt;&lt;/div&gt;
   &lt;div id=&quot;beeSwarmPlot&quot;&gt;&lt;/div&gt;
 
 
