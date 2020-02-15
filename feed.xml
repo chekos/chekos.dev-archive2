@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://chekos.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chekos.dev/" rel="alternate" type="text/html" /><updated>2020-02-15T15:55:10-06:00</updated><id>https://chekos.dev/feed.xml</id><title type="html">chekos.dev🤓</title><subtitle>Blog personal de Sergio Sánchez (@chekoswh). Existe como prueba de la facilidad de fast_template para crear blogs con markdown y jupyter notebooks.</subtitle><entry><title type="html">Probando comments</title><link href="https://chekos.dev/2020/02/15/probando-comments/" rel="alternate" type="text/html" title="Probando comments" /><published>2020-02-15T00:00:00-06:00</published><updated>2020-02-15T00:00:00-06:00</updated><id>https://chekos.dev/2020/02/15/probando-comments</id><content type="html" xml:base="https://chekos.dev/2020/02/15/probando-comments/">&lt;p&gt;Este post es solo para ver si funciona la front matter del archivo.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://chekos.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chekos.dev/" rel="alternate" type="text/html" /><updated>2020-02-15T15:57:03-06:00</updated><id>https://chekos.dev/feed.xml</id><title type="html">chekos.dev🤓</title><subtitle>Blog personal de Sergio Sánchez (@chekoswh). Existe como prueba de la facilidad de fast_template para crear blogs con markdown y jupyter notebooks.</subtitle><entry><title type="html">Probando comments</title><link href="https://chekos.dev/2020/02/15/probando-comments/" rel="alternate" type="text/html" title="Probando comments" /><published>2020-02-15T00:00:00-06:00</published><updated>2020-02-15T00:00:00-06:00</updated><id>https://chekos.dev/2020/02/15/probando-comments</id><content type="html" xml:base="https://chekos.dev/2020/02/15/probando-comments/">&lt;p&gt;Este post es solo para ver si funciona la front matter del archivo.&lt;/p&gt;
 
 &lt;h2 id=&quot;comments&quot;&gt;Comments&lt;/h2&gt;
 &lt;p&gt;también para ver si funcionó esto de los Comments a través de Utterances de GitHub.&lt;/p&gt;
@@ -39,7 +39,7 @@
 
 &lt;p&gt;Todos se conectan. En mi mente, por lo menos. Quería saber si los datos respaldaban mis pensamientos.&lt;/p&gt;
 
-&lt;p&gt;Hace unas semanas encontré esta herramienta: [http://labs.polsys.net/playground/spotify/](http://labs.polsys.net/playground/spotify/]&lt;/p&gt;
+&lt;p&gt;Hace unas semanas encontré esta herramienta: &lt;a href=&quot;http://labs.polsys.net/playground/spotify/&quot;&gt;http://labs.polsys.net/playground/spotify/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;La herramienta utiliza la API de Spotify para crear una red de artistas relacionados hasta dos niveles de separación. Es decir, cuando yo escribo Alemán en la caja de texto la herramienta va y busca todos los artistas relacionados a Alemán (nivel uno) y también busca los artistas relacionados esos artistas (nivel dos).&lt;/p&gt;
 &lt;blockquote&gt;
@@ -47,7 +47,7 @@
 &lt;/blockquote&gt;
 
 &lt;p&gt;Así se ve la red de Alemán
-&lt;img src=&quot;//assets/posts/aleman/red-de-artistas.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;https://chekos.dev/assets/posts/aleman/red-de-artistas.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;La herramienta tiene la opción de descargar los datos. Uno de los atributos de esos datos son las IDs únicas que Spotify le asigna a cada artista. Con estas IDs puedes utilizar la API de Spotify para obtener más información de cada artista como su índice de popularidad, cuántos seguidores tienen, sus canciones más populares y mucho más.&lt;/p&gt;
 
