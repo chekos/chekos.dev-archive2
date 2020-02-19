@@ -8,8 +8,10 @@ on:
 
 jobs:
   build-site:
+    if: ( github.event.commits[0].message != 'Initial commit' ) || github.run_number > 1
     runs-on: ubuntu-latest
     steps:
+
     - name: Copy Repository Contents
       uses: actions/checkout@master
       with:
@@ -31,12 +33,17 @@ jobs:
       with:
         args: jekyll build -V
 
+    - name: copy CNAME file into _site if CNAME exists
+      run: |
+        sudo chmod -R 777 _site/
+        cp CNAME _site/ 2>/dev/null || :
+
     # only deploy upon a push to master
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2
       if: github.event_name == 'push'
-      with:
-        keepfiles: true
+      # with:
+      #   keepfiles: true
       env:
         PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         # ACTIONS_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
