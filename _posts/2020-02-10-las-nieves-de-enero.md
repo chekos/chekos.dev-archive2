@@ -1,10 +1,12 @@
+---
+comments: true
+toc: true
+---
 # Ya se fueron las nieves de enero 
 
 > Cuando todo va mal es cuando más me motivo / Respiro mejor en éste ambiente nocivo / Esto para el rap es lo más nutritivo / Es todo lo que soy por eso escribo.
 - Nocivos, Faruz Feet & Proof
 
-1. TOC
-{:toc}
 
 ## ¿Por qué haría otro blog?
 Si me sigues en las redes sociales tal vez conozcas de la comunidad [**tacosdedatos**](https://tacosdedatos.com/) que comencé a inicios del 2019. La idea de **tacosdedatos** es crear contenido en español. Contenido sobre el análisis y la visualización de datos. Contenido sobre mejores prácticas. Contenido sobre técnicas y tendencias en el mundo de la tecnología que parecen _quedarse_ en el mundo angloparlante por mucho tiempo antes de llegar al mundo hispanohablante. 
