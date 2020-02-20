@@ -53,4 +53,10 @@ kramdown:
   hard_wrap: false
   syntax_highlighter: rouge
 
+# Customized
 permalink: pretty
+
+# social
+instagram_username: chekos.visuals
+linkedin_username: Chekos
+
