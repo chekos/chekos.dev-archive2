@@ -8,4 +8,4 @@ Este blog - [chekos.dev](https://chekos.dev/) - existe como repositorio de ideas
 
 Para todo lo demás - [chekos.dev](https://chekos.dev/)
 
-<iframe src="https://chekos.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+{% includes substack.html %}
