@@ -12,3 +12,5 @@ Para eso existe este blog - <chekos.dev>.
 Yo tengo mi sitio personal en [soyserg.io](https://soyserg.io/) en el que publico información de lo que hago - charlas, talleres, etc. Pero para un blog blog, para eso es <chekos.dev>.
 
 Este blog esta creado con el `fast_template` de [fast.ai](https://fast.ai). Tiene _github actions_ para tomar tus jupyter notebooks y crear archivos markdown para publicar en GitHub Pages sin ningún problema. También esta diseñado para ser fácil de usar incluso si no sabes de Git/GitHub. Para más información visita su blog [aquí](https://www.fast.ai/2020/01/16/fast_template/).
+
+<iframe src="https://chekos.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
