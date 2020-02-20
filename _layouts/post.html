@@ -39,12 +39,4 @@ layout: default
     {{ content | toc  }}
   </div>
   <!-- substack -->
-  <iframe src="https://chekos.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-  {%- if page.comments -%}
-    {%- include utterances.html -%}
-  {%- endif -%}
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
-  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
-</article>
+  {%- includes substack.html -%}
