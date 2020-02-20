@@ -15,4 +15,4 @@ Este blog esta creado con el `fast_template` de [fast.ai](https://fast.ai). Tien
 
 ***
 También tengo una newsletter ahora
-{% includes substack.html %}
+{% include substack.html %}
