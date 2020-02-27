@@ -219,7 +219,7 @@ table td { border: 1px solid #e8e8e8; }
 
 .page-content { -webkit-font-smoothing: antialiased !important; text-rendering: optimizeLegibility !important; font-family: "Segoe UI", SegoeUI, "Segoe WP", "Helvetica Neue", "Helvetica", "Tahoma", "Arial", sans-serif; }
 
-.post-content p { font-size: 20px; color: #515151; }
+.post-content p, .post-content li { font-size: 20px; color: #515151; }
 
 h1 { margin-top: 2.5rem !important; }
 
@@ -228,6 +228,9 @@ h2 { margin-top: 2rem !important; }
 h3, h4 { margin-top: 1.5rem !important; }
 
 .post-title { margin-top: .5rem !important; }
+
+li h3, li h4 { margin-top: .05rem !important; margin-bottom: .05rem !important; }
+li .post-meta-description { color: #585858; font-size: 15px; margin-bottom: .05rem !important; }
 
 /* Dracula Theme v1.2.5  https://github.com/zenorocha/dracula-theme  Copyright 2016, All rights reserved  Code licensed under the MIT license  */
 /* Variables */
@@ -261,3 +264,27 @@ details.description:not([open]) summary::after { content: attr(data-close); }
 .anchor-link { opacity: 0; padding-left: 0.375em; \-webkit-text-stroke: 1.75px white; \-webkit-transition: opacity 0.2s ease-in-out 0.1s; \-moz-transition: opacity 0.2s ease-in-out 0.1s; \-ms-transition: opacity 0.2s ease-in-out 0.1s; }
 
 h1:hover .anchor-link, h2:hover .anchor-link, h3:hover .anchor-link, h4:hover .anchor-link, h5:hover .anchor-link, h6:hover .anchor-link { opacity: 1; }
+
+.page-description { color: #585858; font-size: 110%; }
+
+.category-tags { margin-top: .25rem !important; margin-bottom: .25rem !important; }
+
+.post-meta-title { margin-top: .25em; margin-bottom: .25em; }
+
+.category-tags-icon { font-size: 75% !important; padding-left: 0.375em; opacity: 35%; }
+
+.category-tags-link { color: #bb8181 !important; font-size: 13px !important; }
+
+#lunrsearchresults { padding-top: 0.2rem; }
+
+.lunrsearchresult { padding-bottom: 1rem; }
+
+.lunrsearchresult .title { color: #d9230f; }
+
+.lunrsearchresult .url { color: silver; }
+
+.lunrsearchresult a { display: block; color: #777; }
+
+.lunrsearchresult a:hover, .lunrsearchresult a:focus { text-decoration: none; }
+
+.lunrsearchresult a:hover .title { text-decoration: underline; }

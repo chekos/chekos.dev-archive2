@@ -3,17 +3,17 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Sobre chekos.dev | chekos.dev🤓</title>
+<title>Search | chekos.dev🤓</title>
 <meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="Sobre chekos.dev" />
+<meta property="og:title" content="Search" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Blog personal de Sergio Sánchez (@chekoswh). Existe como prueba de la facilidad de fast_template para crear blogs con markdown y jupyter notebooks." />
 <meta property="og:description" content="Blog personal de Sergio Sánchez (@chekoswh). Existe como prueba de la facilidad de fast_template para crear blogs con markdown y jupyter notebooks." />
-<link rel="canonical" href="https://chekos.dev/about/" />
-<meta property="og:url" content="https://chekos.dev/about/" />
+<link rel="canonical" href="https://chekos.dev/search/" />
+<meta property="og:url" content="https://chekos.dev/search/" />
 <meta property="og:site_name" content="chekos.dev🤓" />
 <script type="application/ld+json">
-{"description":"Blog personal de Sergio Sánchez (@chekoswh). Existe como prueba de la facilidad de fast_template para crear blogs con markdown y jupyter notebooks.","@type":"WebSite","url":"https://chekos.dev/about/","name":"chekos.dev🤓","headline":"Sobre chekos.dev","@context":"https://schema.org"}</script>
+{"description":"Blog personal de Sergio Sánchez (@chekoswh). Existe como prueba de la facilidad de fast_template para crear blogs con markdown y jupyter notebooks.","@type":"WebPage","url":"https://chekos.dev/search/","headline":"Search","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   <link href="https://unpkg.com/@primer/css/dist/primer.css" rel="stylesheet" />
@@ -85,32 +85,17 @@
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <article class="post">
+        <!-- adapted from https://jekyllcodex.org/without-plugin/search-lunr/ -->
 
-  <header class="post-header">
-    <h1 class="post-title">Sobre chekos.dev</h1>
-  </header>
+<script src="/assets/js/vendor/lunr.min.js"></script>
+<script src="/assets/js/search.js"></script>
 
-  <div class="post-content">
-    <h1 id="sobre-chekosdev">Sobre chekos.dev</h1>
-
-<p>¡Hola! Mi nombre es Sergio Sánchez Zavala - creador de <a href="https://twitter.com/tacosdedatos">@tacosdedatos</a>. Aunque ya tenemos un montón de <em>productos</em> como <a href="https://tacosdedatos.com/">el sitio web</a>, <a href="https://anchor.fm/tacosdedatos">el podcast <strong>tacosdedatos, el podcast</strong></a>, <a href="https://anchor.fm/quaildata">el podcast <strong>Quail data</strong></a> (y su sitio <a href="https://tacosdedatos.fm">tacosdedatos.fm</a>), <a href="https://tacosdedatos.substack.com/">el boletín</a>, <a href="https://youtube.com/tacosdedatos">el canal de youtube</a> y hasta <a href="https://tacosdedatos.academy/">“la academia”</a> - aunque todo eso existe hay cosas que me gustaría documentar que simplemente no cuadran con la filosofía de <strong>tacosdedatos</strong>.</p>
-
-<p>Para eso existe este blog - <chekos.dev>.</chekos.dev></p>
-
-<p>Yo tengo mi sitio personal en <a href="https://soyserg.io/">soyserg.io</a> en el que publico información de lo que hago - charlas, talleres, etc. Pero para un blog blog, para eso es <chekos.dev>.</chekos.dev></p>
-
-<p>Este blog esta creado con el <code class="language-plaintext highlighter-rouge">fast_template</code> de <a href="https://fast.ai">fast.ai</a>. Tiene <em>github actions</em> para tomar tus jupyter notebooks y crear archivos markdown para publicar en GitHub Pages sin ningún problema. También esta diseñado para ser fácil de usar incluso si no sabes de Git/GitHub. Para más información visita su blog <a href="https://www.fast.ai/2020/01/16/fast_template/">aquí</a>.</p>
-
-<hr />
-<p>También tengo una newsletter ahora</p>
-<iframe src="https://chekos.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-
-
-  </div>
-
-</article>
-
+<form onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <p><input type="text" class="form-control input-block form-control" id="lunrsearch" name="q" maxlength="500" value="" placeholder="Search" /></p>
+</form>
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
       </div>
     </main><footer class="site-footer h-card">
   <data class="u-url" href="/"></data>
